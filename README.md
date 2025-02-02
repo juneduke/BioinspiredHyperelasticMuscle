@@ -6,6 +6,7 @@ All relevant apparatuses, Codes and Software were primarily designed by Joonhee 
 
 Ph. D Candidate,
 B-MIL (BioMedical and Brain-Machine Interfaces Laboratory) @SNU
+
 Department of Materials Science and Engineering @KAIST
 
 Protocols and Instrumentation was modified and further developed with Jaehyun Jang, Hyunseo Kim of B-MIL.
