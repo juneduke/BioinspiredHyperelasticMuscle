@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite as below"
+
+authors:
+- family-names: "Won"
+  given-names: "Joonhee"
+  orcid: "https://orcid.org/0009-0009-3707-3506"
+title: "BioinspiredHyperelasticMuscle"
+version: 1.0.0
+doi: 10.5281/zenodo.14789188
+date-released: 2025-02-02
+url: "https://github.com/juneduke/BioinspiredHyperelasticMuscle"
