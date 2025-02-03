@@ -5,8 +5,18 @@ authors:
 - family-names: "Won"
   given-names: "Joonhee"
   orcid: "https://orcid.org/0009-0009-3707-3506"
+- family-names: "Jang"
+  given-names: "Jaehyun"
+  orcid: "https://orcid.org/0009-0003-6648-3885"
+- family-names: "Kim"
+  given-names: "Hyeonseo"
+  orcid: "https://orcid.org/0009-0009-9603-9391"
+- family-names: "Park"
+  given-names: "Seongjun"
+  orcid: "https://orcid.org/0000-0002-1981-9628"
+
 title: "BioinspiredHyperelasticMuscle"
 version: 1.0.0
-doi: 10.5281/zenodo.14789188
+doi: 
 date-released: 2025-02-02
 url: "https://github.com/juneduke/BioinspiredHyperelasticMuscle"
