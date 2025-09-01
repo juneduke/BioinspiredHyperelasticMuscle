@@ -1,5 +1,5 @@
 # Hyperelastic Microfibers as Bioinspired Proprioceptive Artificial Muscles
-Codes written for research project with above title; archived codes contain versions written or edited before and up to 2025-02-02.
+Codes written for research project with above title; archived codes contain relevant versions to submission
 
 # Authors
 All relevant apparatuses, Codes and Software were primarily designed by Joonhee Won
